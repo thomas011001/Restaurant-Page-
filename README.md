@@ -44,7 +44,3 @@ The output will be in the `dist` folder.
 ## Live Preview
 
 Check out the live version of the project on GitHub Pages: [Restaurant Page Live](https://thomas011001.github.io/Restaurant-Page-/)
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
