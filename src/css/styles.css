@@ -1,24 +1,32 @@
 #content {
-    color: white;
+  color: white;
 }
 
 .hero img {
-    max-width: 800px;
-    width: 100%;
+  max-width: 800px;
+  width: 100%;
 }
 
 .hero img::after {
-    content: "higisle";
-    width: 10px;
-    height: 1px;
-    color: black;
+  content: "higisle";
+  width: 10px;
+  height: 1px;
+  color: black;
 }
 
 .heading {
-    font-size: 4rem;
+  font-size: 3rem;
 }
 
 .about {
-    flex-direction: column;
-    height: calc(100vh - 56px);
+  flex-direction: column;
+  height: calc(100vh - 56px);
+}
+
+.card {
+  transition: 300ms;
+}
+
+.card:hover {
+  transform: translateY(-10px);
 }
